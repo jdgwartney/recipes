@@ -1,2 +1,4 @@
-chapter1.md
+desserts.md
+apple_grand_mariner.md
+stews_and_soups.md
 mexican_stew.md
