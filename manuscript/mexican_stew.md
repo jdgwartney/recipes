@@ -1,7 +1,6 @@
-Mexican Stew
-============
+## Mexican Stew
 
-## Ingredients
+### Ingredients
 
 - 1 lb lean ground beef
 - 1/2 onion shaved
@@ -13,7 +12,7 @@ Mexican Stew
 - 1 large tomato juice (almost whole can)
 - white rice to thicken
 
-## Directions
+### Directions
 
 1. Brown ground beef with onion.
 2. Add garlic pepper, taco seasonings, all tomatoes, beans, and tomato juice.
@@ -21,7 +20,7 @@ Mexican Stew
 4. Add tsp. sugar to taste
 5. Add 2 cups rice after it cooks a while (10 minutes before for cooked rice, 20 minutes before for minute rice)
 
-## Serving
+### Serving
 
 Serve with:
 
