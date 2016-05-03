@@ -19,7 +19,7 @@ Mexican Stew
 2. Add garlic pepper, taco seasonings, all tomatoes, beans, and tomato juice.
 3. Add 6-8 oz water.
 4. Add tsp. sugar to taste
-5.
+5. Add 2 cups rice after it cooks a while (10 minutes before for cooked rice, 20 minutes before for minute rice)
 
 ## Serving
 
